@@ -1,0 +1,22 @@
+{
+  "name": "slial",
+  "version": "1.0.0",
+  "description": "SLIAL course AAU 2021",
+  "main": "matrixPower.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benjadahl/SLIAL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benjadahl/SLIAL/issues"
+  },
+  "homepage": "https://github.com/Benjadahl/SLIAL#readme",
+  "dependencies": {
+    "mathjs": "^9.2.0"
+  }
+}
